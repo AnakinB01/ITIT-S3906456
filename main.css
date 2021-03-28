@@ -2,7 +2,7 @@
 
 /*-----Main Properties----*/
 html {
-  background-image: url(/images/mountainbackground.png);
+  background-image: url(mountainbackground.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
