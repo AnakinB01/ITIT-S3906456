@@ -84,3 +84,11 @@ On completion of the project and if it is successful, it should result in a path
 
 
 --------------------NOTE/ DIRECTORY PROBLEMS WITH FILES AND GITHUB PAGES SO I HAD TO TAKE ALL ITEMS OUTSIDE FOLDERS AND PLACE IN REPO-------------------------
+
+
+REFERENCES:
+
+JS IMAGE: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsetscholars.net%2Fjavascript-tutorials-for-beginners-javascript-comments%2F&psig=AOvVaw1mTqgHGOtpNWb2zo2Z1eRH&ust=1617014432121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiSzanm0u8CFQAAAAAdAAAAABAD
+VSCODE IMAGE: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2Fdownload&psig=AOvVaw1JIazYkMqCB3JZlTvi9YnV&ust=1617014465595000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCejLnm0u8CFQAAAAAdAAAAABAD
+BACKGROUND IMAGE: https://www.pexels.com/photo/lake-and-mountain-417074/
+
